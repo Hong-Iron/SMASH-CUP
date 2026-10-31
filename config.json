@@ -1,0 +1,87 @@
+{
+  "code": "CUP",
+  "title": "SMASH CUP",
+  "school": "부산가톨릭대",
+  "fullName": "부산가톨릭대학교",
+  "campusName": "부산가톨릭대학교",
+  "tagline": "부산가톨릭대를 부셔 (시험기간 스트레스 해소)",
+  "description": "부산가톨릭대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 부산가톨릭대학교 3D 화면과 SMASH CUP 제목",
+  "url": "https://hong-iron.github.io/SMASH-CUP/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 756646830
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.2474196,
+        129.100184
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 운동장 위쪽 풀밭 비탈이라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        35.2450569,
+        129.0987494
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 오륜대로 옆 숲 땅(부곡동 9-55, 임야)의 나무와 풀밭뿐이고 건물은 보이지 않습니다."
+    },
+    {
+      "at": [
+        35.2468947,
+        129.0990006
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖, 이웃한 동래초등학교 땅(구서동 74-12)에 있는 구조물입니다."
+    },
+    {
+      "at": [
+        35.2451501,
+        129.0988398
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 오륜대로 옆 숲 땅(부곡동 9-55, 임야)의 나무 띠뿐이고, 바로 옆 건물은 학교가 아닌 주택(동진주택)입니다."
+    },
+    {
+      "at": [
+        35.2442316,
+        129.0963921
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 서쪽 끝 숲 비탈이라 지붕이나 벽이 보이지 않고 나무만 있습니다."
+    }
+  ],
+  "look": {
+    "E동": {
+      "style": "stone",
+      "wall": "#ebe2da",
+      "glass": "#2a5652",
+      "frame": "#f0e8de"
+    },
+    "H동": {
+      "style": "stone",
+      "wall": "#d8d8d6",
+      "glass": "#4e6b6b",
+      "frame": "#c6a184"
+    },
+    "J동": {
+      "style": "stone",
+      "wall": "#e2e4e3",
+      "glass": "#6f7d82",
+      "frame": "#c8cacb"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
